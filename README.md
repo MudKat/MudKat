@@ -1,16 +1,13 @@
-## Hi there 👋
+# MudKat
 
-<!--
-**Brave-Tip691/Brave-Tip691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Construction professional building practical tools for local AI, cybersecurity,
+homelab operations, and automation.
 
-Here are some ideas to get you started:
+## Current work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Self-hosted AI agents and operational dashboards
+- Network monitoring and cybersecurity tooling
+- Local model infrastructure and automation
+- Practical documentation for systems that have to keep working
+
+[MudKat Enterprises](https://mudkat.com)
