@@ -1,6 +1,6 @@
 # Jeff Diener
 
-Construction professional building practical local AI, homelab infrastructure, automation, and reliable Windows/Linux systems through [MudKat Enterprises](https://mudkat.com).
+Building practical local AI, homelab infrastructure, automation, and reliable Windows/Linux systems through [MudKat Enterprises](https://mudkat.com).
 
 ## Current work
 
