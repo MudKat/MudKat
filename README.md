@@ -1,13 +1,16 @@
-# MudKat
+# Jeff Diener
 
-Construction professional building practical tools for local AI, cybersecurity,
-homelab operations, and automation.
+Construction professional building practical local AI, homelab infrastructure, automation, and reliable Windows/Linux systems through [MudKat Enterprises](https://mudkat.com).
 
 ## Current work
 
 - Self-hosted AI agents and operational dashboards
-- Network monitoring and cybersecurity tooling
-- Local model infrastructure and automation
-- Practical documentation for systems that have to keep working
+- Open-source LLMs, inference, and model evaluation
+- Homelab infrastructure and systems administration
+- Practical automation and documentation for systems that have to keep working
 
-[MudKat Enterprises](https://mudkat.com)
+## Find me
+
+- [MudKat Enterprises on GitHub](https://github.com/MudKat-Enterprises-LLC)
+- [Hugging Face](https://huggingface.co/mudkat-enterprises)
+- [LinkedIn](https://www.linkedin.com/company/mudkat-enterprises-llc/)
