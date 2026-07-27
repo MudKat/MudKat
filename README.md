@@ -14,3 +14,4 @@ Construction professional building practical local AI, homelab infrastructure, a
 - [MudKat Enterprises on GitHub](https://github.com/MudKat-Enterprises-LLC)
 - [Hugging Face](https://huggingface.co/mudkat-enterprises)
 - [LinkedIn](https://www.linkedin.com/company/mudkat-enterprises-llc/)
+- [X](https://x.com/jeff8709)
